@@ -11,7 +11,9 @@
 ## 🚀 Live Demo
 
 👉 **Try it here:**  
-file:///C:/Users/raksh/Downloads/Spotify-Clone-main%20(1)/Spotify-Clone-main/Library.html
+## 🚀 Live Demo
+
+👉 https://RAKSHNA31.github.io/spotifyclone31/
 ---
 
 ## 🎥 Project Preview (Highly Recommended)
